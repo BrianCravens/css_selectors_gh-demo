@@ -2,14 +2,6 @@ section {
     color: red;
 }
 
-#intro {
-    color: green;
-}
-
-.intro_para {
-    color: blue;
-}
-
 .blogpost {
     padding: 10px;
     color: goldenrod;
