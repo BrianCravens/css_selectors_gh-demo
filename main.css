@@ -1,0 +1,17 @@
+section {
+    color: red;
+}
+
+#intro {
+    color: green;
+}
+
+.intro_para {
+    color: blue;
+}
+
+/*SPECIFICITY
+inline
+id
+class
+element */
