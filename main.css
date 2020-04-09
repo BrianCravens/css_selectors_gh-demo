@@ -10,6 +10,17 @@ section {
     color: blue;
 }
 
+.blogpost {
+    padding: 10px;
+    color: goldenrod;
+    background-color: fuscia;
+    margin: 0;
+}
+
+.sidebar {
+    border: 1px solid black;
+    float: right;
+}
 /*SPECIFICITY
 inline
 id
